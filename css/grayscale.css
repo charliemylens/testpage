@@ -151,7 +151,7 @@ a:focus, a:hover {
     padding: 0;
   }
   .masthead .intro-body .brand-heading {
-    font-size: 100px;
+    font-size: 60px;
   }
   .masthead .intro-body .intro-text {
     font-size: 22px;
@@ -230,6 +230,17 @@ a:focus, a:hover {
   border: 1px solid #42DCA3;
   outline: none;
   background-color: #42DCA3;
+}
+
+.lens {
+  width: 220px;
+  height: 220px;
+  background-image: url("../img/white-circle2.jpg")  
+}
+
+.lens p {
+  padding-top: 45%;
+  color:black;
 }
 
 ul.banner-social-buttons {
