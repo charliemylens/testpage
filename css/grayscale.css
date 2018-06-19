@@ -241,6 +241,8 @@ a:focus, a:hover {
 .lens p {
   padding-top: 45%;
   color:black;
+  font-size: 1.3em;
+  padding-left: 2%;
 }
 
 ul.banner-social-buttons {
